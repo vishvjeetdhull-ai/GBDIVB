@@ -1,1 +1,1 @@
-# GBDIVB
+See README in repository. This package contains app.py, sample csv and requirements.
